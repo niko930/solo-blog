@@ -1,4 +1,4 @@
-<p align="center"><img alt="xndy的个人博客" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/150px-Telegram_logo.svg.png"></p><h2 align="center">
+<p align="center"><img alt="xndy的个人博客" src="https://www.dengcm.com/favicon.ico"></p><h2 align="center">
 xndy的个人博客
 </h2>
 
@@ -10,6 +10,7 @@ xndy的个人博客
 
 ### 最新
 
+* [跳槽喽](https://blog.dengcm.com/articles/2019/08/20/1566238169293.html)
 * [建站缘由](https://blog.dengcm.com/articles/2019/08/19/1566182820103.html)
 
 
